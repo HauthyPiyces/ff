@@ -1,2 +1,2 @@
 # ff
-für software fester download punkt für ffmpeg
+fester download punkt für ffmpeg und anderes
